@@ -22,7 +22,7 @@
     echo "<br>";
 
     // On supprime l'entrée 2 (Bob)
-    array_splice($tableau, 1, 2);
+    unset($tableau[2]);
     var_dump($tableau);
 
     echo "<br>";
