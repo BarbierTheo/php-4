@@ -34,5 +34,4 @@
     echo "<br><br>";
 
     echo "Il y a " . count($tableau) . " prénoms";
-
 ?>
