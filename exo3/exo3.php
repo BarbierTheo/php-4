@@ -6,7 +6,7 @@ $fmt = new NumberFormatter('fr_FR', NumberFormatter::CURRENCY)
 ?>
 
 <!DOCTYPE html>
-<html lang="en">
+<html lang="fr">
 
 <head>
     <meta charset="UTF-8">
